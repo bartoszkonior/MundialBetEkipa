@@ -66,3 +66,21 @@ This repository contains only the frontend application. The backend was develope
 ## Status
 
 Project completed and deployed for tournament usage.
+
+## Screenshots
+
+### User Dashboard
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/99e3f55b-0c60-48be-9c9a-04049889881d" />
+
+
+### Match Prediction Form
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b910d6ea-d614-463d-a65c-79f73af532c6" />
+
+### Ranking Table
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/9cdcf91a-b7e7-45ec-986c-c863fa9cda37" />
+
+### Followed users' ranking table
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/c9fca60c-be06-4877-a35b-b0460a41ed8c" />
+
+### Admin panel
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/0154c11c-ff2f-45bc-bd23-1e3d96220a76" />
