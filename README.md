@@ -90,4 +90,3 @@ Project completed and deployed for tournament usage.
 ### Admin panel
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/0154c11c-ff2f-45bc-bd23-1e3d96220a76" />
->>>>>>> 6a6d5b98e1c9dade0668174242f25a78c9198074
